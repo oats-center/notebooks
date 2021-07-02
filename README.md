@@ -23,7 +23,7 @@ limited and that saving your work may be more difficult.
 For simplicity, here a running list of [mybinder.org](https://mybinder.org)
 links:
 
-- Pandas + matplotlib basics and GDU + ACIS PRISM.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OATS-Group/notebooks/master?filepath=Pandas%20%2B%20matplotlib%20basics%20and%20GDU%20%2B%20ACIS%20PRISM.ipynb)
+- GDU and ACIS PRISM Basics: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oats-center/notebooks/HEAD?filepath=GDU_and_ACIS_PRISM%2FGDU_and_ACIS_PRISM.ipynb)
 
 ## Run locally
 
